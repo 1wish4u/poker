@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cs350.poker.model.HandTest
 -------------------------------------------------------------------------------
-Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in cs350.poker.model.HandTest
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s -- in cs350.poker.model.HandTest

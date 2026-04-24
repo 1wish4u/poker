@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cs350.poker.model.HandTest" time="0.015" tests="40" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cs350.poker.model.HandTest" time="0.009" tests="40" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\Yair Adonis\AppData\Local\Temp\surefire7951236098149105885\surefirebooter-20260423201748512_3.jar C:\Users\Yair Adonis\AppData\Local\Temp\surefire7951236098149105885 2026-04-23T20-17-48_370-jvmRun1 surefire-20260423201748512_1tmp surefire_0-20260423201748512_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Yair Adonis\AppData\Local\Temp\surefire5289941801326542024\surefirebooter-20260423214758582_3.jar C:\Users\Yair Adonis\AppData\Local\Temp\surefire5289941801326542024 2026-04-23T21-47-58_353-jvmRun1 surefire-20260423214758582_1tmp surefire_0-20260423214758582_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Yair Adonis\Downloads\poker_test\poker\target\test-classes;C:\Users\Yair Adonis\Downloads\poker_test\poker\target\classes;C:\Users\Yair Adonis\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Yair Adonis\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Yair Adonis\.m2\repository\org\mockito\mockito-core\5.22.0\mockito-core-5.22.0.jar;C:\Users\Yair Adonis\.m2\repository\net\bytebuddy\byte-buddy\1.17.7\byte-buddy-1.17.7.jar;C:\Users\Yair Adonis\.m2\repository\net\bytebuddy\byte-buddy-agent\1.17.7\byte-buddy-agent-1.17.7.jar;C:\Users\Yair Adonis\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\Yair Adonis\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Yair Adonis\AppData\Local\Temp\surefire7951236098149105885\surefirebooter-20260423201748512_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Yair Adonis\AppData\Local\Temp\surefire5289941801326542024\surefirebooter-20260423214758582_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.2+10-LTS-69"/>
@@ -75,13 +75,13 @@
   <testcase name="testGetCardsReturnsCorrectCards" classname="cs350.poker.model.HandTest" time="0.001"/>
   <testcase name="testToStringSingleCard" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testSortByRankEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testAddCardPreservesOrder" classname="cs350.poker.model.HandTest" time="0.001"/>
+  <testcase name="testAddCardPreservesOrder" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testSortByFaceValue" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testToStringContainsIndices" classname="cs350.poker.model.HandTest" time="0.0"/>
+  <testcase name="testToStringContainsIndices" classname="cs350.poker.model.HandTest" time="0.001"/>
   <testcase name="testNumberOfFourOfAKind" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testNumberOfEmptyHand" classname="cs350.poker.model.HandTest" time="0.001"/>
+  <testcase name="testNumberOfEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testSortByRankFiveCards" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testRemoveNullCard" classname="cs350.poker.model.HandTest" time="0.0"/>
+  <testcase name="testRemoveNullCard" classname="cs350.poker.model.HandTest" time="0.001"/>
   <testcase name="testNewHandIsEmpty" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testToStringEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testRemoveCardMatchesExactSuitAndFace" classname="cs350.poker.model.HandTest" time="0.0"/>
@@ -89,7 +89,7 @@
   <testcase name="testSortByRankAscending" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testRemoveCardByIndex" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testGetCardValidIndex" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testIsEmptyAfterAddAndRemove" classname="cs350.poker.model.HandTest" time="0.0"/>
+  <testcase name="testIsEmptyAfterAddAndRemove" classname="cs350.poker.model.HandTest" time="0.001"/>
   <testcase name="testFindCardEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testAddNullCard" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testRemoveCardByIndexFromEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
@@ -98,5 +98,5 @@
   <testcase name="testRemoveCardFromEmptyHand" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testNumberOfReturnsZeroForAbsent" classname="cs350.poker.model.HandTest" time="0.0"/>
   <testcase name="testGetCardInvalidIndex" classname="cs350.poker.model.HandTest" time="0.0"/>
-  <testcase name="testRemoveCardByNegativeIndex" classname="cs350.poker.model.HandTest" time="0.0"/>
+  <testcase name="testRemoveCardByNegativeIndex" classname="cs350.poker.model.HandTest" time="0.001"/>
 </testsuite>

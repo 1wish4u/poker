@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cs350.poker.analysis.HandComparatorTest
 -------------------------------------------------------------------------------
-Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.122 s -- in cs350.poker.analysis.HandComparatorTest
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.890 s -- in cs350.poker.analysis.HandComparatorTest
