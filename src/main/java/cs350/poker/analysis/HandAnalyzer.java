@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-
+//this is a change for jenkins
 //test the private helper methods.
 
 public class HandAnalyzer {
