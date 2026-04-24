@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cs350.poker.analysis.HandAnalyzerTest
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.072 s -- in cs350.poker.analysis.HandAnalyzerTest
