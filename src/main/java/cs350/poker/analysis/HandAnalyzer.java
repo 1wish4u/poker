@@ -11,6 +11,8 @@ import java.util.List;
 //test the private helper methods.
 //test 
 //t
+//ttt
+//teeeeest
 public class HandAnalyzer {
     public static final int HIGH_CARD = 0;
     public static final int ONE_PAIR = 1;
