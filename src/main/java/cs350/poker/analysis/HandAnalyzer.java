@@ -9,6 +9,7 @@ import java.util.List;
 
 //this is a change for jenkins
 //test the private helper methods.
+//test 
 
 public class HandAnalyzer {
     public static final int HIGH_CARD = 0;
